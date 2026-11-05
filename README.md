@@ -46,10 +46,14 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="./profile-summary-cards/output/tokyonight/stats.svg" alt="Stats" />
-  <img src="./profile-summary-cards/output/tokyonight/langs.svg" alt="Langs" />
-</div>
+<p align="center">
+  <a href="https://github.com/TsvetanG2">
+    <img height="150" align="center" src="./profile/stats.svg" />
+  </a>
+  <a href="https://github.com/TsvetanG2">
+    <img height="150" align="center" src="./profile/top-langs.svg" />
+  </a>
+</p>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DogeTale&theme=tokyonight&hide_border=true)
 
