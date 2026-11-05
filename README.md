@@ -47,12 +47,9 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-| 📈 Rendimiento General | 💻 Lenguajes Más Usados |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DogeTale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeTale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="Top Languages" /> |
-
-<br/>
+  <img src="./profile-summary-cards/output/tokyonight/stats.svg" alt="Stats" />
+  <img src="./profile-summary-cards/output/tokyonight/langs.svg" alt="Langs" />
+</div>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DogeTale&theme=tokyonight&hide_border=true)
 
