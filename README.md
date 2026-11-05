@@ -46,14 +46,18 @@
 
 ## 📊 Estadísticas de GitHub
 
+<div align="center">
+
 <p align="center">
   <a href="https://github.com/DogeTale">
-    <img height="150" align="center" src="./profile/stats.svg" />
+    <img height="150" src="./profile/stats.svg" />
   </a>
   <a href="https://github.com/DogeTale">
-    <img height="150" align="center" src="./profile/top-langs.svg" />
+    <img height="150" src="./profile/top-langs.svg" />
   </a>
 </p>
+
+<br/>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DogeTale&theme=tokyonight&hide_border=true)
 
