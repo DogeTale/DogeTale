@@ -11,6 +11,7 @@ jobs:
 
     permissions:
       contents: write
+      actions: read
 
     steps:
       - uses: actions/checkout@v4
@@ -22,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&rank_icon=github&hide_border=true
+          options: username=DogeTale&show_icons=true&theme=dracula&rank_icon=github&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula&rank_icon=github&hide_border=true
+          options: username=DogeTale&layout=compact&langs_count=6&theme=dracula&rank_icon=github&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
