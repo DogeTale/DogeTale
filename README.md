@@ -47,10 +47,10 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/TsvetanG2">
+  <a href="https://github.com/DogeTale">
     <img height="150" align="center" src="./profile/stats.svg" />
   </a>
-  <a href="https://github.com/TsvetanG2">
+  <a href="https://github.com/DogeTale">
     <img height="150" align="center" src="./profile/top-langs.svg" />
   </a>
 </p>
