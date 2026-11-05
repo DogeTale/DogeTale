@@ -50,7 +50,7 @@
 
 | 📈 Rendimiento General | 💻 Lenguajes Más Usados |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DogeTale&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeTale&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DogeTale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeTale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="Top Languages" /> |
 
 <br/>
 
