@@ -11,10 +11,6 @@ jobs:
 
     permissions:
       contents: write
-      actions: read
-      pull-requests: read
-      issues: read
-      repository-projects: read
 
     steps:
       - uses: actions/checkout@v4
@@ -28,7 +24,7 @@ jobs:
           card: stats
           options: username=DogeTale&show_icons=true&theme=dracula&rank_icon=github&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -36,7 +32,7 @@ jobs:
           card: top-langs
           options: username=DogeTale&layout=compact&langs_count=6&theme=dracula&rank_icon=github&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit cards
         run: |
